@@ -1,0 +1,5 @@
+1001;Mingau;Gato;Persa;72;4.20
+1002;Thor;Cachorro;Labrador;108;31.50
+1003;Pacoca;Gato;SRD;36;3.80
+1004;Bidu;Cachorro;Shih Tzu;144;6.70
+1005;Pipoca;Coelho;Mini Lop;24;1.60
